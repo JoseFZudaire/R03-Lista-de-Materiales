@@ -1,0 +1,11 @@
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Debug\ListOfMaterialsPGGA.exe.config
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Debug\ListOfMaterialsPGGA.exe
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Debug\ListOfMaterialsPGGA.pdb
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Debug\ListOfMaterialsPGGA.Generate.resources
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Debug\ListOfMaterialsPGGA.Joiner.resources
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Debug\ListOfMaterialsPGGA.forms.Principal.resources
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Debug\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Debug\ListOfMaterialsPGGA.csproj.GenerateResource.Cache
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Debug\ListOfMaterialsPGGA.exe
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Debug\ListOfMaterialsPGGA.pdb
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Debug\ListOfMaterialsPGGA.csprojResolveAssemblyReference.cache
