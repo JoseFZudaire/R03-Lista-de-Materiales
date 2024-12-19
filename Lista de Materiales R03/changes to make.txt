@@ -1,0 +1,10 @@
+Things to correct:
+- Allow for customization of name 
+- Add thick lines and general customization of form
+SHOULD I USE COMPLETE DESCRIPTION? - Check that elements that have been added, because theyre being deleted accidentally or something - no deleting, its just that they have the same key
+DONE - Change delimiter
+DONE - Make sure all sheets are closed after the execution has finished, and only the result is open 
+DONE - Try and add filters to the columns
+- Make sure that you cant add twice the same project with BoMList (same excel titles)
+
+

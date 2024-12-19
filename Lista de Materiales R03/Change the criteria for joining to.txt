@@ -1,0 +1,13 @@
+Change the criteria for joining to both SAP ID and Description being the same
+
+Add filters to final Excel
+
+Make sure the colors of the checkmarks and crosses are correct
+
+Add crosses for new elements or copy the ones from before
+
+Make the comments of "Page Height" and "Are you sure you want to replace this doc" disappear
+
+Change the format of the Model page - DONE
+
+Make colours of H to K columns correct - DONE

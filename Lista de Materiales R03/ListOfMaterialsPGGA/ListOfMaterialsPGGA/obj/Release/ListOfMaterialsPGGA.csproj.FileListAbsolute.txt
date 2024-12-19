@@ -1,0 +1,135 @@
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csprojResolveAssemblyReference.cache
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Joiner.resources
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.forms.Principal.resources
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.Cache
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\arlegom\Documents\Visual Studio 2013\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\stdole.dll
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csprojResolveAssemblyReference.cache
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Joiner.resources
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.forms.Principal.resources
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.Cache
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\arlegom\Documents\Visual Studio 2015\Projects\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\stdole.dll
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.AssemblyReference.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.SuggestedBindingRedirects.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Joiner.resources
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.forms.Principal.resources
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CopyComplete
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\Documents\Hitachi Energy Desarrollo - Repository\Hitachi_Energy_Desarrollo\011 - Lista de Materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\stdole.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.AssemblyReference.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.SuggestedBindingRedirects.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Joiner.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.forms.Principal.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CopyComplete
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\022 - Desarrollo de Lista BOM para SAP\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Forms.AddAdditionalShts.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\stdole.dll
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.AssemblyReference.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.SuggestedBindingRedirects.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Forms.AddAdditionalShts.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CopyComplete
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\stdole.dll
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.AssemblyReference.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.SuggestedBindingRedirects.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Forms.AddAdditionalShts.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CopyComplete
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\HE Desarrollo - Repo\HE_Des\Issue #030 - Revisión herramienta Lista de materiales\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\stdole.dll
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.AssemblyReference.cache
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Forms.AddAdditionalShts.resources
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.cache
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CoreCompileInputs.cache
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CopyComplete
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\JH0213\Documents\Listado de Materiales - VF\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\stdole.dll
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.AssemblyReference.cache
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Forms.AddAdditionalShts.resources
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.cache
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CoreCompileInputs.cache
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CopyComplete
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\JH0213\Documents\Listado de Materiales - 26-11-24\ListOfMaterialsPGGA\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\stdole.dll
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.AssemblyReference.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.SuggestedBindingRedirects.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Forms.AddAdditionalShts.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CoreCompileInputs.cache
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CopyComplete
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\JZ4874\OneDrive - Hitachi Energy\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe.config
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.exe
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\ListOfMaterialsPGGA.pdb
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\bin\Release\stdole.dll
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.AssemblyReference.cache
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Forms.AddAdditionalShts.resources
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Generate.resources
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.Properties.Resources.resources
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.GenerateResource.cache
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CoreCompileInputs.cache
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.csproj.CopyComplete
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.exe
+C:\Users\JH0213\Documents\Lista de Materiales R03\ListOfMaterialsPGGA\ListOfMaterialsPGGA\obj\Release\ListOfMaterialsPGGA.pdb
